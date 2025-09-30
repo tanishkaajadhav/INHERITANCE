@@ -132,7 +132,7 @@ CONCLUSION:
 
 The program successfully demonstrates hierarchical inheritance, showing independent access of base class members by multiple derived classes.
 
-(e) ACCESS SPECIFIER IN INHERITANCE (PROTECTED) – PROTECTEDINHERITANCE.CPP
+(e) ACCESS SPECIFIER IN INHERITANCE (PROTECTED) – ACCESSSPECIFIERS.CPP
 
 AIM:
 
